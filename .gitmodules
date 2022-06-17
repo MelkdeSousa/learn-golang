@@ -1,0 +1,6 @@
+[submodule "bango"]
+	path = bango
+	url = git@github.com:MelkdeSousa/bango.git
+[submodule "ghopping"]
+	path = ghopping
+	url = git@github.com:MelkdeSousa/ghopping.git
